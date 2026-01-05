@@ -1,0 +1,7 @@
+{
+  "name": "Masal Dünyası",
+  "description": "Uşaqlar üçün süni intellektlə fərdiləşdirilmiş nağıllar yaradan və danışan sehrli tətbiq.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
